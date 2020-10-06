@@ -1,4 +1,4 @@
-<img src="https://github.com/kiranio/kiranio/blob/master/svg.svg"/>
+<img src="https://github.com/kiranio/kiranio/blob/master/logo.svg"/>
 
 
 <p><em>A Senior Software Developer 😊</br>
